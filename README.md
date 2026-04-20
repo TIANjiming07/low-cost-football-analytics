@@ -17,29 +17,13 @@ The project can be used as a starting point for workflows such as detecting play
 - Streamlit support for interactive demos or dashboards
 - Extensible structure for scouting, match review, and tactical analysis
 
-## Repository Structure
 
-The main project files are currently located in:
-
-```text
-Football-Analytics-with-Deep-Learning-and-Computer-Vision-master/
-```
-
-Current top-level structure:
-
-```text
-.
-├── Football-Analytics-with-Deep-Learning-and-Computer-Vision-master/
-│   └── requirements.txt
-└── README.md
-```
 
 ## Getting Started
 
 ### Prerequisites
 
 Recommended setup:
-
 - Python 3.10 or newer
 - Git
 - A virtual environment

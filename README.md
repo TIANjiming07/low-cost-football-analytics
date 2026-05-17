@@ -85,17 +85,14 @@ cd Football-Analytics-with-Deep-Learning-and-Computer-Vision-master
 
 Create and activate a virtual environment:
 Windows
-python -m venv .venv
-.venv\Scripts\activate
-macOS / Linux
-python3 -m venv .venv
-source .venv/bin/activate
-
-Create and activate a virtual environment:
-
 ```bash
 python -m venv .venv
 .venv\Scripts\activate
+```
+macOS / Linux
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
 ```
 
 Install the dependencies:
@@ -137,14 +134,14 @@ The app is usually available at:
 
 ## Potential Analysis Outputs
 
-This project can be extended to support:
+This project can support or be extended to support:
 
-- Player detection and tracking
-- Ball detection and tracking
-- Team identification
-- Speed and distance estimation
-- Possession or phase-of-play analysis
-- Annotated match clips
-- Interactive dashboards for match review
+- Real-time tactical analysis with low-cost equipment
+- Player team prediction
+- Estimation of player and ball positions on a tactical map
+- Ball tracking
+- Heatmap visualization
+- Possession rate analysis
+- Team pass count statistics
 
 

@@ -84,7 +84,8 @@ cd Football-Analytics-with-Deep-Learning-and-Computer-Vision-master
 ```
 
 Create and activate a virtual environment:
-```
+
+
 Windows
 ```bash
 python -m venv .venv

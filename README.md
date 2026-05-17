@@ -32,19 +32,18 @@ The current implementation is centered on tactical-camera footage and supports w
 
 ### 2. Color selection for football players' clothing
 
-![Tactical map asset](docs/images/tactical-map.jpg)
+![Tactical map asset](docs/images/select color.jpg)
 
-### 3. Players Detection Training Results
+### 3. Parameter adjustment
 
-![Players detection results](docs/images/player-model-results.png)
+![Players detection results](docs/images/parameter adjustment.png)
 
 ### 4. Field Keypoints Training Results
 
-![Field keypoints results](docs/images/field-keypoints-results.png)
+![Field keypoints results](docs/images/sample output1.png)
 
-### 5. Sample Streamlit Output
 
-![Sample Streamlit output](docs/images/streamlit-output-sample.jpg)
+![Sample Streamlit output](docs/images/sample output2.jpg)
 
 ## Repository Layout
 

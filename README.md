@@ -84,6 +84,14 @@ cd Football-Analytics-with-Deep-Learning-and-Computer-Vision-master
 ```
 
 Create and activate a virtual environment:
+Windows
+python -m venv .venv
+.venv\Scripts\activate
+macOS / Linux
+python3 -m venv .venv
+source .venv/bin/activate
+
+Create and activate a virtual environment:
 
 ```bash
 python -m venv .venv
@@ -98,15 +106,8 @@ pip install -r requirements.txt
 
 > Note: The dependency file currently lists `python-opencv`. If installation fails, try installing `opencv-python` instead.
 
-### Conda Option
 
-If you prefer conda:
 
-```bash
-cd Football-Analytics-with-Deep-Learning-and-Computer-Vision-master
-conda env create -f environment.yml
-conda activate <your-env-name>
-```
 
 ## Usage
 

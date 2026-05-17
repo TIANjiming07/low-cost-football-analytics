@@ -28,9 +28,9 @@ The current implementation is centered on tactical-camera footage and supports w
 
 ### 1. Application Home Page
 
-![Application home page](docs/images/workflow-diagram.png)
+![Application home page](docs/images/a1212b4d9456bae605a7833dc9b10cf3.png)
 
-### 2. Tactical Map Asset
+### 2. Color selection for football players' clothing
 
 ![Tactical map asset](docs/images/tactical-map.jpg)
 

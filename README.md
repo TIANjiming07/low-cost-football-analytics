@@ -32,17 +32,17 @@ The current implementation is centered on tactical-camera footage and supports w
 
 ### 2. Color Selection for Football Players' Clothing
 
-![Color selection for football players' clothing](docs/images/select-color.png)
+![Color selection for football players' clothing](docs/images/select%20color.png)
 
 ### 3. Parameter Adjustment
 
-![Parameter adjustment](docs/images/parameter-adjustment.png)
+![Parameter adjustment](docs/images/parameter%20adjustment.png)
 
 ### 4. Detection and Tactical Analysis Output
 
-![Sample output 1](docs/images/sample-output1.png)
+![Sample output 1](docs/images/sample%20output1.png)
 
-![Sample output 2](docs/images/sample-output2.png)
+![Sample output 2](docs/images/sample%20output2.png)
 
 ## Repository Layout
 
